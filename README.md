@@ -1,3 +1,5 @@
+> **This repository has moved to [MiSTer-devel/Arcade-PrimalRage_MiSTer](https://github.com/MiSTer-devel/Arcade-PrimalRage_MiSTer).** This copy is archived; please use the new link for downloads, issues and pull requests.
+
 <p align="center">
   <img src="screenshots/title.png" width="800">
   <img src="screenshots/fight.png" width="800">
